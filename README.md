@@ -35,5 +35,5 @@ I am a junior at Stevens Institute of Technology, majoring in Computer Science w
 ## Contact Information
 
 Feel free to reach out to me via:
-- **Email:** [svirani3@stevens.edu](mailto:svirani3@stevens.edu)
+- **Email:** [sahil.virani@outlook.com](mailto:sahil.virani@outlook.com)
 - **LinkedIn:** [www.linkedin.com/in/sahil-virani9](https://www.linkedin.com/in/sahil-virani9)
