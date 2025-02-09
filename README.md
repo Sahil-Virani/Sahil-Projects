@@ -9,6 +9,7 @@ Welcome to my GitHub repository! Here, you'll find a collection of my projects, 
     - [Project 1: Stock Market Prediction Model](#project-1-stock-market-prediction-model)
     - [Project 2: Trivia Game Application](#project-2-trivia-game-application)
     - [Project 3: Custom Shell](#project-3-custom-shell)
+    - [Project 4: Fake News Detector](#project-4-fake-news-detector)
 3. [Contact Information](#contact-information)
 
 ## About Me
@@ -30,6 +31,11 @@ I am a junior at Stevens Institute of Technology, majoring in Computer Science w
 ### Project 3: Custom Shell
 - **Description:** Developed a custom shell in C, implementing built-in commands, color printing for prompts, signal handling, and fork/exec for external commands.
 - **Technologies Used:** C
+- **Repository Link:** [Link to repository]
+
+### Project 4: Fake News Detector
+- **Description:** Developed a TfidfVectorizer on my dataset using sklearn. Afterwards, initialized a PassiveAggressive Classifier and fitted the model. Finally, the accuracy score and the confusion matrix revealed how well my model performed.
+- **Technologies used:** Python, Pandas, NumPy
 - **Repository Link:** [Link to repository]
 
 ## Contact Information
