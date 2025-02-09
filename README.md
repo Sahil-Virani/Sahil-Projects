@@ -38,7 +38,7 @@ I am a junior at Stevens Institute of Technology, majoring in Computer Science w
 - **Technologies used:** Python, Pandas, NumPy
 - **Link:** [[Fake News Detector]](https://github.com/Sahil-Virani/Sahil-Projects/blob/main/FakeNewsDetector.ipynb)
     ## Dataset
-- **Filename:** [news.zip](datasets/news.zip)
+- **Filename:** [news.zip](https://github.com/Sahil-Virani/Sahil-Projects/blob/main/news.zip)
 - **Description:** A compressed version of the news.csv dataset containing labeled real and fake news articles.
 
 ## Contact Information
