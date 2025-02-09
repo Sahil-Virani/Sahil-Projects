@@ -37,6 +37,9 @@ I am a junior at Stevens Institute of Technology, majoring in Computer Science w
 - **Description:** Developed a TfidfVectorizer on my dataset using sklearn. Afterwards, initialized a PassiveAggressive Classifier and fitted the model. Finally, the accuracy score and the confusion matrix revealed how well my model performed.
 - **Technologies used:** Python, Pandas, NumPy
 - **Link:** [[Fake News Detector]](https://github.com/Sahil-Virani/Sahil-Projects/blob/main/FakeNewsDetector.ipynb)
+    ## Dataset
+- **Filename:** [news.zip](datasets/news.zip)
+- **Description:** A compressed version of the news.csv dataset containing labeled real and fake news articles.
 
 ## Contact Information
 
