@@ -31,7 +31,7 @@ I am a junior at Stevens Institute of Technology, majoring in Computer Science w
 ### Project 3: Custom Shell
 - **Description:** Developed a custom shell in C, implementing built-in commands, color printing for prompts, signal handling, and fork/exec for external commands.
 - **Technologies Used:** C
-- **Repository Link:** [Link to repository]
+- **Link:** (https://github.com/Sahil-Virani/Sahil-Projects/blob/main/minishell.c)
 
 ### Project 4: Fake News Detector
 - **Description:** Developed a TfidfVectorizer on my dataset using sklearn. Afterwards, initialized a PassiveAggressive Classifier and fitted the model. Finally, the accuracy score and the confusion matrix revealed how well my model performed.
