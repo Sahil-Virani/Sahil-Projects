@@ -27,6 +27,8 @@ I am a junior at Stevens Institute of Technology, majoring in Computer Science w
 - **Description:** Developed a network-based multiplayer Trivia Game in C, implementing both server and client functionalities.
 - **Technologies Used:** C, Socket Programming, Multiplexed I/O
 - **Repository Link:** [[Trivia Game]](https://github.com/Sahil-Virani/Sahil-Projects/blob/main/trivia.zip)
+#### Questions Text File
+- 
 
 ### Project 3: Custom Shell
 - **Description:** Developed a custom shell in C, implementing built-in commands, color printing for prompts, signal handling, and fork/exec for external commands.
