@@ -21,7 +21,7 @@ I am a junior at Stevens Institute of Technology, majoring in Computer Science w
 ### Project 1: Stock Market Prediction Model
 - **Description:** Designed and implemented an LSTM neural network model in Python using Keras and TensorFlow to predict stock prices.
 - **Technologies Used:** Python, Keras, TensorFlow, Yahoo Finance API, Matplotlib
-- **Repository Link:** [Link to repository]
+- **Link:** [[Stock Market Prediction Model]](https://github.com/Sahil-Virani/Sahil-Projects/blob/main/MarketPredictionModel.ipynb)
 
 ### Project 2: Trivia Game Application
 - **Description:** Developed a network-based multiplayer Trivia Game in C, implementing both server and client functionalities.
